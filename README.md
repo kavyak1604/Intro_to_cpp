@@ -1,2 +1,6 @@
 # introtocpp
-Basic programs to start of with C++
+#include<iostream>
+using namespace std;
+main(){
+cout<<"Hello World!";
+}
