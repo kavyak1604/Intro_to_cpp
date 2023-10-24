@@ -50,6 +50,31 @@ main()
    
     return 0;
 }
+/*BITWISE OPERATOR
+16
+32
+64
+6
+3
+1
+
+
+ARITHMETIC OPERATORSvar1+var2 = 17
+var1-var2 = -1
+var1*var2 =72
+var1/var2=0
+var1%var2=8
+
+
+RELATIONAL OPERATORS
+var2 is greater
+var1 is less Or equal to var 2
+var1 is not equal to var 2
+
+BITWISE OPERATORS
+Bitwise and=8Bitwise or=8Bitwise left shift6
+Bitwise right shift24
+
 
 
 
