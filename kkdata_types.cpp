@@ -33,3 +33,19 @@ main()
     return 0;
 
 }
+myIntVar= 3
+myFloatVar=4.5
+myStrVar =str
+myCharVar =*
+
+
+myIntVar= 3
+size of myIntVar= 4 bytes
+myFloatVar=4.5
+size of myFloatVar=4 bytes
+myStrVar =str
+size of myStrVar =8 bytes
+myCharVar= *
+
+size of myCharVar= 1 bytes
+myNum constant = 141
