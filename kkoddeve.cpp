@@ -13,3 +13,9 @@ main()
 
 
 }
+/*enter an integer:
+4
+even
+enter an integer:
+5
+odd
