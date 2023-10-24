@@ -45,4 +45,18 @@ int main()
     int remainder= a%b;
     cout<<"The remainder is:"<<remainder<<endl;
 
-}
+}/*Enter first number:23
+Enter second number:44
+The sum is:67
+Enter first number:67
+Enter second number:34
+The difference is:33
+Enter first number:78
+Enter second number:99
+The product is:7722
+Enter first number:43
+Enter second number:90
+The quotient is:0
+Enter first number:67
+Enter second number:89
+The remainder is:67
