@@ -26,4 +26,14 @@ main()
    else
    {cout<<"Fail";}
 
-}
+}/*enter marks in subject :1
+45
+enter marks in subject :2
+67
+enter marks in subject :3
+89
+enter marks in subject :4
+73
+enter marks in subject :5
+91
+A+
