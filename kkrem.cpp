@@ -17,3 +17,6 @@ main()
         cout<<output<<endl;
 
     }
+/*4
+1
+
