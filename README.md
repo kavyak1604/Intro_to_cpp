@@ -84,6 +84,22 @@ Multiplication: Calculate product = a * b and display "The product is:" followed
 Division: Calculate quotient = a / b and display "The quotient is:" followed by the value of quotient.<br>
 Modulus: Calculate remainder = a % b and display "The remainder is:" followed by the value of remainder.<br>
 End<br>
+<br>
+d)Loops<br>
+Start<br>
+Declare an integer variable prn to store the PRN.<br>
+Display "enter prn :" and read an integer value into prn.<br>
+Declare an integer array dig[5] to store the individual digits of the PRN.<br>
+Using a loop with the control variable i running from 0 to 4:<br>
+a. Calculate the last digit of the PRN by taking the remainder of prn when divided by 10, and store it in dig[i].<br>
+b. Update prn by dividing it by 10 to remove the last digit.<br>
+Using another loop with the control variable i running from 0 to 4:<br>
+a. Print each digit stored in the dig array in the order they were extracted.<br>
+End<br>
+<br>
+## CONCLUSION
+Hence in this repository a glimpse of the basics of c++was taken and programs using data types,operators,and loops were performed.
+
 
 
 
