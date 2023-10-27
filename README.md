@@ -41,10 +41,37 @@ The do/while loop is a variant of the while loop. This loop will execute the cod
 
 ## ALGORITHM
 a)Basics
-Start
-Display the text "Hello, world!" to the console.
-End
-b)
+Start<br>
+Display the text "Hello, world!" to the console.<br>
+End<br>
+<br>
+b)Data types & Boolean datatypes<br>
+Start<br>
+Declare an integer variable myIntVar to store an integer input value.<br>
+Display the message "myIntVar=" and read an integer value from the user into myIntVar.<br>
+Declare a float variable myFloatVar to store a floating-point input value.<br>
+Display the message "myFloatVar=" and read a float value from the user into myFloatVar.<br>
+Declare a string variable myStrVar to store a string input value.<br>
+Display the message "myStrVar =" and read a string value from the user into myStrVar.<br>
+Declare a char variable myCharVar to store a character input value.<br>
+Display the message "myCharVar =" and read a character value from the user into myCharVar.<br>
+Display the input values and their respective sizes in bytes:<br>
+a. Print "myIntVar=" followed by the value of myIntVar.<br>
+b. Print "size of myIntVar=" followed by the size of myIntVar in bytes.<br>
+c. Print "myFloatVar=" followed by the value of myFloatVar.<br>
+d. Print "size of myFloatVar=" followed by the size of myFloatVar in bytes.e. Print "myStrVar =" followed by the value of myStrVar.<br>
+f. Print "size of myStrVar =" followed by the size of myStrVar in bytes.<br>
+g. Print "myCharVar=" followed by the value of myCharVar.<br>
+h. Print "size of myCharVar=" followed by the size of myCharVar in bytes.<br>
+Define a constant integer variable myNum with a value of 14 and display it.<br>
+Declare a bool variable A and initialize it with the value true.<br>
+Declare a double variable c and initialize it with the value 7.985163.<br>
+Declare a short integer variable b and initialize it with the value 14.<br>
+Declare a long integer variable d and initialize it with the value 80.<br>
+Print the size of the bool data type.<br>
+End<br>
+<br>
+c)Operators
 
 
 
