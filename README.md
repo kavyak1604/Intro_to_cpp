@@ -71,7 +71,19 @@ Declare a long integer variable d and initialize it with the value 80.<br>
 Print the size of the bool data type.<br>
 End<br>
 <br>
-c)Operators
+c)Operators<br>
+Start<br>
+Declare integer variables a, b, sum, diff, product, quotient, and remainder to store user input and results of arithmetic operations.<br>
+Display "Enter first number:" and read an integer value into variable a.<br>
+Display "Enter second number:" and read an integer value into variable b.<br>
+Calculate the sum of a and b and store it in the variable sum.<br>
+Display "The sum is:" followed by the value of sum.<br>
+Repeat steps 3 to 6 for the following arithmetic operations:
+Subtraction: Calculate diff = a - b and display "The difference is:" followed by the value of diff.<br>
+Multiplication: Calculate product = a * b and display "The product is:" followed by the value of product.<br>
+Division: Calculate quotient = a / b and display "The quotient is:" followed by the value of quotient.<br>
+Modulus: Calculate remainder = a % b and display "The remainder is:" followed by the value of remainder.<br>
+End<br>
 
 
 
