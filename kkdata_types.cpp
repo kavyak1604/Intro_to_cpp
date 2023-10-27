@@ -33,6 +33,7 @@ main()
     return 0;
 
 }
+/*
 myIntVar= 3
 myFloatVar=4.5
 myStrVar =str
